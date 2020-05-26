@@ -2,7 +2,9 @@
 This is a program designed to decrypted the PDF file on the blogger.
 Simply type `python pwd.py`.
 
-<font color="#f20c0c">Please do not open the folder "figure" if you want to enjoy the game completely.</font>
+<div class="text-red mb-2">
+  Please do not open the folder "figure" if you want to enjoy the game completely.
+</div>
 
 ## Requirement
 Python 3.6 or later
